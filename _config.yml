@@ -1,0 +1,15 @@
+# Site settings
+title: margin.io
+email: johnotander@gmail.com
+description: "We build beautiful web products"
+baseurl: ""
+url: "http://margin.io"
+
+author:
+  name: "John Otander"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude: ['bower_components', 'node_modules', 'scss', 'package.json', 'README.md', 'gulpfile.js', 'bower.json']
