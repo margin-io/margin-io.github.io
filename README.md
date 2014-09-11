@@ -1,6 +1,6 @@
-# Bleuprint
+# margin.io
 
-A minimal, Jekyll template with build tasks for scaffolding out responsive websites.
+This is where margin.io lives.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Now you need to modify the content as you deem fit. It's best to start with the 
 
 ## Contributing
 
-1. Fork it ( http://github.com/johnotander/bleuprint/fork )
+1. Fork it ( http://github.com/margin-io/margin-io.github.io/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
