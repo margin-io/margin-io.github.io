@@ -38,8 +38,14 @@ h6 {
 }
 
 p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 2.12rem;
+}
+
+@media (min-width: $breakpoint-mobile) {
+  p {
+    font-size: 1.25rem;
+  }
 }
 
 a,

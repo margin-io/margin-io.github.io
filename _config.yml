@@ -1,7 +1,7 @@
 # Site settings
 title: margin.io
 email: johnotander@gmail.com
-description: "We build beautiful web products"
+description: "We build beautiful web products in Ruby on Rails, Ember, Javascript, HTML, and CSS/SCSS."
 baseurl: ""
 url: "http://margin.io"
 
